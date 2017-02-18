@@ -1,5 +1,7 @@
 # GPMDB_GPlates_version
-Here is the GPML file for the latest Global Paleomagnetism Data Base (GPMDB) 4.6b. It can be opened using GPlates.
+Here is the GPML file for the latest Global Paleomagnetism Data Base (GPMDB)
+4.6b. It can be opened using GPlates. **Please note that here the points
+visulized are paleopoles**.
 
 Use
 
