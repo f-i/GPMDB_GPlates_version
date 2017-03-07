@@ -47,8 +47,10 @@ average age of the High Magnetic Age and the Low Magnetic Age for each paleopole
 here the High and Low Magnetic Ages are shown as Valid time in GPlates, i.e. from
 "High Age" to "Low Age")
 
-## To Do (or Expectation)
+## Further Thinking
 
 Paleomagnetic poles should remain their appearances during the time span from
 their High Magnetic Ages to their Low Magnetic Ages, not just at one timestamp,
-i.e. their mean ages.
+i.e. their mean ages. So the right visulization should be to set "Show all VGPs
+at times between Distant Past (check) and Distant Future (check) in the dialogue
+of "Set VGP Visibility" in the above Step 3.
