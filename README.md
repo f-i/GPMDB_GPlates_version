@@ -46,3 +46,9 @@ at times within 0.00 My of VGP's age" (please note that this age is actually the
 average age of the High Magnetic Age and the Low Magnetic Age for each paleopole/VGP;
 here the High and Low Magnetic Ages are shown as Valid time in GPlates, i.e. from
 "High Age" to "Low Age")
+
+## To Do (or Expectation)
+
+Paleomagnetic poles should remain their appearances during the time span from
+their High Magnetic Ages to their Low Magnetic Ages, not just at one timestamp,
+i.e. their mean ages.
