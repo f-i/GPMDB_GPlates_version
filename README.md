@@ -54,3 +54,7 @@ their High Magnetic Ages to their Low Magnetic Ages, not just at one timestamp,
 i.e. their mean ages. So the right visulization should be to set "Show all VGPs
 at times between Distant Past (check) and Distant Future (check) in the dialogue
 of "Set VGP Visibility" in the above Step 3.
+
+Here is an example of paleomagnetic pole visualization in such way (Click on the
+image below to view):
+[![Consistency of paleomagnetic north poles from the North American Craton since 330 Ma](https://img.youtube.com/vi/OjngaZt8o5g/0.jpg)](https://www.youtube.com/watch?v=OjngaZt8o5g "Consistency of paleomagnetic north poles from the North American Craton since 330 Ma")
