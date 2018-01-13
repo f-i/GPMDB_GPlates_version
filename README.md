@@ -38,23 +38,23 @@ directory: (1) gpmdb46b.gpml, paleomagnetic data; (2) gmap2015_rotation.rot,
 Plate kinematics model; (3) gmap2015_plateid.txt, Plate IDs for the kinematics
 model.
 
-2. Import gpmdb46b.gpml and gmap2015_rotation.rot into GPlates;
+2. Import gpmdb46b.gpml and gmap2015_rotation.rot into GPlates.
 
 3. In the "Layers" dialogue, under the layer for gpmdb46b.gpml, go to
 "Reconstruction options" and click its "Set VGP visibility..." to set "Show VGPs
 at times within 0.00 My of VGP's age" (please note that this age is actually the
-average age of the High Magnetic Age and the Low Magnetic Age for each paleopole/VGP;
-here the High and Low Magnetic Ages are shown as Valid time in GPlates, i.e. from
-"High Age" to "Low Age")
+average age of the High Magnetic Age and the Low Magnetic Age for each
+paleopole/VGP; here the High and Low Magnetic Ages are shown as Valid time in
+GPlates, i.e. from "High Age" to "Low Age").
 
 ## Further Thinking
 
 Paleomagnetic poles should remain their appearances during the time span from
-their High Magnetic Ages to their Low Magnetic Ages, not just at one timestamp,
-i.e. their mean ages. So the right visulization should be to set "Show all VGPs
-at times between Distant Past (check) and Distant Future (check) in the dialogue
-of "Set VGP Visibility" in the above Step 3.
+their High Magnetic Ages to their Low Magnetic Ages, not just at one timestamp
+(e.g. the mean age used commonly). So the right visulization should be to set
+"Show all VGPs at times between Distant Past (check) and Distant Future (check)
+in the dialogue of "Set VGP Visibility" in the above Step 3.
 
 Here is an example of paleomagnetic pole visualization in such way (Click on the
-image below to view):
+image below to view the video):
 [![Consistency of paleomagnetic north poles from the North American Craton since 330 Ma](https://img.youtube.com/vi/OjngaZt8o5g/0.jpg)](https://www.youtube.com/watch?v=OjngaZt8o5g "Consistency of paleomagnetic north poles from the North American Craton since 330 Ma")
