@@ -22,7 +22,7 @@ The original file is in Microsoft Access *.MDB format (See its source [here][1])
 
 This version includes published data up to Dec 2004, all Australian
 published data up to Jan 2011, and some additional data published
-in 2005-2010. The total number of included paleomagnetic poles is 9360.
+in 2005-2016. The total number of included paleomagnetic poles is 9514.
 
 GPMDB was originally created by [Michael McElhinny and Jo Lock
 (1996)][2], and recently maintained by [Sergei Pisarevsky][3].
